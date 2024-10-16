@@ -16,9 +16,9 @@ This repo is shows us how to install prometheus and grafana on AWS-EC2 (Ubuntu).
 4.  Clone this git repo
 
 ### Security Groups Configured on EC2 Instances
-Port 9090 — Prometheus Server
-Port 9100 — Prometheus Node Exporter
-Port 3000 — Grafana
+##### Port 9090 — Prometheus Server
+##### Port 9100 — Prometheus Node Exporter
+##### Port 3000 — Grafana
 
 ##  Install Prometheus
 Prometheus is an open source tool for monitoring and alerting applications.
